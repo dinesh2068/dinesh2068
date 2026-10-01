@@ -30,6 +30,7 @@ I build web tools and browser extensions that make everyday tasks simpler. I enj
 | **Ophion Tool Vault** | A curated, trust-rated collection of tools, tricks, and resources. | [Documentation](https://github.com/dinesh2068/Ophion-tool-vault-Documentation) · [Website](https://ophion-tool-vault.grimmoir.workers.dev/) |
 | **QR Generator** | A browser extension and web tool to generate, copy, and download QR codes. | [Code](https://github.com/dinesh2068/QR-Generator) · [Website](https://qrcode-web-magic-link.lovable.app) |
 | **WebPage Auto Refresher** | A browser extension that retries pages after server errors or connection timeouts. | [Code](https://github.com/dinesh2068/WebPage_Auto_Refresher) |
+| **Starred repositories** | Tools and projects I've bookmarked. | [See more →](https://github.com/dinesh2068?tab=stars) |
 
 <details>
 <summary><b> How an idea becomes a project</b></summary>
